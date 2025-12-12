@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Lanka-Travel-Diaries/static/css/main.50eb3d37.css",
+    "main.js": "/Lanka-Travel-Diaries/static/js/main.e5b4afac.js",
+    "static/js/453.55eed3c4.chunk.js": "/Lanka-Travel-Diaries/static/js/453.55eed3c4.chunk.js",
+    "static/media/video-3.mp4": "/Lanka-Travel-Diaries/static/media/video-3.9feadae093d188b8b8ea.mp4",
+    "static/media/img-home.jpg": "/Lanka-Travel-Diaries/static/media/img-home.c034239ee9a63564602b.jpg",
+    "static/media/img-8.jpg": "/Lanka-Travel-Diaries/static/media/img-8.7c81ec8e5e35b585acd9.jpg",
+    "static/media/img-4.jpg": "/Lanka-Travel-Diaries/static/media/img-4.43fe80dbf370da8c79ff.jpg",
+    "static/media/img-3.jpg": "/Lanka-Travel-Diaries/static/media/img-3.1b068ddeeb42ff5ba5d4.jpg",
+    "static/media/logo.png": "/Lanka-Travel-Diaries/static/media/logo.b09f0db33bc0630e7bb3.png",
+    "static/media/img-2.jpg": "/Lanka-Travel-Diaries/static/media/img-2.ef8b6da2080656cf8fee.jpg",
+    "static/media/img-1.jpg": "/Lanka-Travel-Diaries/static/media/img-1.e24d8bee251cbd824392.jpg",
+    "index.html": "/Lanka-Travel-Diaries/index.html",
+    "main.50eb3d37.css.map": "/Lanka-Travel-Diaries/static/css/main.50eb3d37.css.map",
+    "main.e5b4afac.js.map": "/Lanka-Travel-Diaries/static/js/main.e5b4afac.js.map",
+    "453.55eed3c4.chunk.js.map": "/Lanka-Travel-Diaries/static/js/453.55eed3c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50eb3d37.css",
+    "static/js/main.e5b4afac.js"
+  ]
+}
