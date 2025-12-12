@@ -2,7 +2,7 @@
   "name": "travel-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nimesh.github.io/YOUR_REPO_NAME",
+  "homepage": "https://nimeshakalanka.github.io/Lanka-Travel-Diaries",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@testing-library/jest-dom": "^5.17.0",
